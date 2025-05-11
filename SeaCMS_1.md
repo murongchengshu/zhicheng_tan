@@ -2,7 +2,7 @@
 target:https://github.com/seacms-net/CMS/blob/master/SeaCMS_V13.2_install.zip
 version: V13.2
 
-daicuocms V13.2 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component  /qzm01p/admin_type.php
+SeaCMS V13.2 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component  /qzm01p/admin_type.php
 
 POC:
 ```
